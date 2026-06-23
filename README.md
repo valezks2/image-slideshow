@@ -26,4 +26,4 @@ Clone the repository and run the script to use the slideshow in your local envir
 ```bash
 git clone https://github.com/valezks2/image-slideshow
 cd image-slideshow
-python "image slideshow.py"
+python image-slideshow.py
